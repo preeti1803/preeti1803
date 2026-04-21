@@ -40,7 +40,7 @@ Hello, my name is Preeti Prajapati and I am an undergradsuate student at [Vidyav
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-![Preeti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=preeti-1803&count_private=true&show_icons=true&include_all_commits=true)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preeti1803&layout=compact)
 
